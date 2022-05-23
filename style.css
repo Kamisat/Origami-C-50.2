@@ -1,0 +1,55 @@
+*{
+
+    background-color: rgb(50, 50, 50);
+
+    color: aliceblue;
+
+}
+
+.body{
+
+    display: flexbox;
+
+    justify-content:space-between;
+
+    font-style: italic;
+
+    font-size: 30px;
+
+    text-align: center;
+
+}
+
+.grid{
+
+    display: flex;
+
+    flex-wrap:wrap;
+
+
+
+}
+
+.tsuru{
+
+
+    margin: 80px;
+
+
+}
+.dragon{
+    margin: 80px;
+
+
+}
+.flower{
+    margin: 80px;
+
+
+}
+.trex{
+
+    margin: 80px;
+
+
+}
